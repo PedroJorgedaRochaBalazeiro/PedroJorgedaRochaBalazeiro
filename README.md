@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi there! I’m Pedro Balazeiro, thanks for visiting my profile 🙂
+I recently graduated with a Master’s in Computer and Informatics Engineering from the Faculty of Engineering, University of Porto (FEUP).
+I’m currently looking for exciting opportunities to start my professional journey in tech.
+
+## 🚀 Tecnologias
+<!-- - 💻 JavaScript | Python | TypeScript
+- 🧰 React | Node.js | Django | FastAPI
+- ☁️ AWS | Docker | GitHub Actions -->
+
+## 📊 Estatísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJorgedaRochaBalazeiro&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroJorgedaRochaBalazeiro&show_icons=true)
